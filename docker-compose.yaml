@@ -1,0 +1,11 @@
+services:
+  vuecrash:
+    build: .
+    container_name: vuecrash
+    ports:
+      - "8081:5173"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    # stdin_open: true
+    # tty: true
