@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "type": "Full Time",
+    "description": "You will google stuff and write code."
+  },
+  {
+    "id": 2,
+    "title": "Pizza man",
+    "type": "Part Time",
+    "description": "You will make pizzas and deliver them to our customers."
+  },
+  {
+    "id": 3,
+    "title": "Mcdonald employee",
+    "type": "Full Time",
+    "description": "You will flip boorgirs and make fries."
+  }
+]
